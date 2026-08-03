@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="UTF-8">
+    <title>Banana Oatmeal Recipe</title>
+  </head>
+  <body>
+    <main>
+    <h1>Banana Oatmeal Pudding Recipe</h1>
+    <p>
+      Welcome to my (definitely not stolen) recipe for pudding which... i'll be honestly i took from <a href="https://runningonrealfood.com/simple-creamy-banana-oatmeal/#wprm-recipe-container-18408$0">this site</a> alongside the image. it's quite a good recipe and i recommend the site. with care: Energized Tea
+    </p>
+    <section>
+    <h2>Ingredient<!--e-->s</h2>
+    <ul>
+      <li>1 medium ripe banana</li>
+      <li>1/2 cup of oats</li>
+      <li>1 tbsp chia seeds</li>
+      <li>1/2 tsp cinammon</li>
+      <li>pinch sea salt</li>
+      <li>1/2 cup of water</li>
+      <li>1/2 cup of milk</li>
+    </ul>
+    </section>
+    <section>
+    <h2>Instruc<!--c-->tion<!--e-->s</h2>
+    <ol>
+      <li>Add all of the ingredients into a small pot and mix well.</li>
+      <li>Cook over medium-low heat, mashing the banana while it cooks.</li>
+      <li>Cook for 8-10 minutes until creamy, stirring frequently so it doesn’t burn.</li>
+      <li>Scoop into a bowl and enjoy</li>
+    </ol>
+    </main>
+    <img src="https://runningonrealfood.com/wp-content/uploads/2018/11/vegan-simple-creamy-banana-oatmeal-recipe-running-on-real-food-10-480x480.jpg" alt="Image of the oatmeal from runningonrealfood's site" height="200">
+  </body>
+</html>
