@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8"> 
+  <title>Travel Agency Page</title>
+  <meta name="description" content="Learn more about the possibilites you have to travel with us to italy and explores multiples sites">
+  </head>
+  <body>
+    <h1>Travel through Italy</h1>
+    <p>From art to the farmside, follow us to meet any and all aspects of the beautiful italy together no matter your interests, be ready for a wide itinerary and the experience of your life</p>
+    <h2>Packages</h2>
+    <p>From the bustling cities of Milan to the calming Amalfi Coast, coming with us will guarantee a beautiful experience as no matter your interests, we can and will accomodate you!</p>
+
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Picture of the Colloseum"></a>
+      <figcaption>Historical Sites</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Picture of a Natural Reserve"></a>
+      <figcaption>The Wild Outdoors</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Picture of the Coast with a boat"></a>
+      <figcaption>A Sea Adventure</figcaption>
+    </figure>
+  </body>
+</html>
