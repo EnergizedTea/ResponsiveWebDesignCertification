@@ -17,8 +17,8 @@
       >
   </section>
   <section>
-    <h2>Certainly not another RickRoll</h2>
-    <audio controls loop src="https://archive.org/download/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
+    <h2>Sadly not another RickRoll</h2>
+    <audio controls loop src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3">
   </section>
 </body>
 </html>
