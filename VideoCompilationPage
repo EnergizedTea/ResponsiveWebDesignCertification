@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Videos I Enjoy</h1>
+        
+        <p>In this website I'm showing off three different videos i enjoy as well as a simple explanation of why I enjoy them.</p>
+
+        <section>
+            <h2>Rick Astley - Never Gonna Give You Up</h2>
+            <p>not only do i enjoy sharing it for the internet joke, but it also is a very good song and a very good music video</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=uts7MCGZ_rnUCZKi" title="Never Gonna Give You Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>lemoncholy - Art, Fashion, & The French Revolution</h2>
+            <p>A fantastic video on the way the french revolution impacted the concept of fashion itself in france</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/g7_udUy0WzY?si=1pmFyFusPRnSeMkO" title="Art, Fashion, & The French Revolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>neo - The Genius Design of Apple Park
+            </h2>
+            <p>A fantastic video on the construction and design philosophy of Apple Park</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VbeM8Lf7s5A?si=nfmWrtyaH9J9t1bh" title="The Genius Design of Apple Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
