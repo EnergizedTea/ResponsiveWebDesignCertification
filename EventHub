@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Bonsai 101</h3>
+                <p>An introductory course into the art of the bonsai, learn how to take care of your very own. Materials included.</p>
+                <p>Scheduled for the <time datetime="2026-09-28T15:30">28th of September at 3:30 pm</time></p>
+            </article>
+            
+            <article>
+                <h3>Gundam Collecting</h3>
+                <p>Enter the wonderful world of gundam with this class, we'll go over it's origin as well as practice assembling and painting your first kit</p>
+                <p>Scheduled for the <time datetime="2026-10-16T14:30">16th of October at 2:30 pm</time></p>
+            </article>
+        </section>
+
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>The History of Personal Computer</h3>
+                <p>From computers so big they needed entire rooms to themselves all the way to computers that fit on the palm of your hand. Join us for a 2 hour long seminar on the history of personal computing!</p>
+                <p>Took place on the <time datetime="2026-08-12T13:30">12th of August of 2026 at 1:30 pm</time></p>
+                <figure>
+                    <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Photograph of an old IBM computer">
+                    <figcaption>Just one of the many steps it took to reach our modern era of computing power</figcaption>
+                </figure>
+            </article>
+
+            <article>
+                <h3>The Wonders of Cybersecurity</h3>
+                <p>Join us on this seminar to learn about the difficult yet rewarding world of cybersecurity! Our panel of experts will gladly answer any doubts you may have about this fulfilling career</p>
+                <p>Took place on the <time datetime="2026-05-09T11:30">9th of May, 2026 at 11:30 am</time></p>
+                <figure>
+                    <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="blue wallpaper with various squares">
+                    <figcaption>Remember! You too can be an expert in Cybersecurity</figcaption>
+                </figure>
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
